@@ -1,0 +1,48 @@
+
+[
+    {
+        "id": 1,
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2019,
+        "price": 22000,
+        "color": "White",
+        "image": "/images/camry.jpeg"
+    },
+    {
+        "id": 2,
+        "make": "Honda",
+        "model": "Accord",
+        "year": 2018,
+        "price": 18000,
+        "color": "Blue",
+        "image": "/images/hondaccord.jpeg"
+    },
+    {
+        "id": 3,
+        "make": "Ford",
+        "model": "Mustang",
+        "year": 2020,
+        "price": 35000,
+        "color": "Red",
+        "image": "/images/mustang.jpeg"
+    },
+    {
+        "id": 4,
+        "make": "Chevrolet",
+        "model": "Camaro",
+        "year": 2019,
+        "price": 28000,
+        "color": "Yellow",
+        "image": "/images/camaro.jpeg"
+    },
+    {
+        "id": 5,
+        "make": "Tesla",
+        "model": "Model 3",
+        "year": 2021,
+        "price": 60000,
+        "color": "Black",
+        "image": "/images/tesla.jpeg"
+    }
+]
